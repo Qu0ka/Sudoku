@@ -1,0 +1,8 @@
+packages :
+controller
+	class:
+	eventHandler
+application
+	main
+	sudokuGenerator
+
